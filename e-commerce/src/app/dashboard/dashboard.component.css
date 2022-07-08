@@ -1,0 +1,42 @@
+
+
+.container-fluid{
+    margin-top: 10px;
+}
+
+.logo{
+    margin-left: 100px;
+}
+
+.table{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.dash{
+    margin-top: 12px;
+}
+.search{
+    margin-top: 20px;
+    position: absolute;
+}
+
+.button{
+    border-radius: 18px;
+    font-size: 12px;
+    margin-top: 20px;
+    float: right;
+}
+
+.button1{
+    font-size: 12px;
+    border-radius: 24px;
+}
+
+.modal.show{
+    display: block;
+}
+
+
+ 
+
